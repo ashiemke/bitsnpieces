@@ -2,11 +2,9 @@
 //  Util.h
 //  Valentine
 //
-//  Created bt Amadeus Consulting Group on 3/4/13.
-//  Copyright (c) 2013 Valentine. All rights reserved.
-//
-//
-//
+//  Created by Adam Shiemke
+//  Copyright (c) 2013 Adam Shiemke. All rights reserved.
+
 #import <UIKit/UIKit.h>
 #import <objc/runtime.h>
 
